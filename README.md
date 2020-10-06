@@ -3,7 +3,7 @@
 ## Clone project
 
 ```
-git clone https://github.com/GlebKasyak/caesar_cipher.git
+git clone https://github.com/VadimVelikanets/my_caesar_cli.git
 ```
 
 ## Installing NPM modules
